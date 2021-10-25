@@ -1,0 +1,8 @@
+{
+  "department": {
+    "departmentId": 1000,
+    "departmentName": "test department",
+    "departmentAddress": "test York",
+    "departmentCode": "IT-02"
+  }
+}
